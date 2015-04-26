@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Demo/libs/libprotobuf-java-2.6-nano.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Demo/libs/vrtoolkit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Demo/libs/unitycardboardactivity.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Demo/libs/unity-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
